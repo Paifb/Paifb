@@ -52,6 +52,6 @@ AI Solutions Engineering | Applied AI Engineering | AI Product Engineering | Int
 
 **Founder @ EXECORA**
 
-🌐 https://execora.com.br
+🌐 https://execora-platform.onrender.com/
 
-💼 [LinkedIn](https://www.linkedin.com/)
+💼 [LinkedIn](https://www.linkedin.com/in/fabiano-silva-gr/?isSelfProfile=true)
